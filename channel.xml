@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Channel>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+    <Name>Some Home Pages</Name>
+    <IsActive>true</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>0aaa952a-339a-4a0a-80ea-acbd4f7b82d7</ChannelID>
+    <Name>News</Name>
+    <IsActive>true</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Name>Tech Src</Name>
+    <IsActive>true</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>51e3685f-dc41-4851-9b80-34b3a9905882</ChannelID>
+    <Name>Shopping</Name>
+    <IsActive>true</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>7a696e7a-aa35-4f35-b3ac-fd63d73dca59</ChannelID>
+    <Name>Search</Name>
+    <IsActive>true</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Name>Job Boards</Name>
+    <IsActive>true</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>7c52e9f4-aa12-4348-9cb0-704ac6a8f7e3</ChannelID>
+    <Name>Special Access</Name>
+    <IsActive>True</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>19e98650-4b1a-44ed-ba85-69601edf93ee</ChannelID>
+    <Name>Finance</Name>
+    <IsActive>False</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>49f067f4-b2f3-4c73-9085-d218f90f2863</ChannelID>
+    <Name>Some Stuff</Name>
+    <IsActive>false</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>e9cf12ad-caac-4598-9fc0-91b09b8d2af4</ChannelID>
+    <Name>PDFs PDFs</Name>
+    <IsActive>False</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>34f2198a-52c6-4d68-a658-88d5c4225219</ChannelID>
+    <Name>테스트</Name>
+    <IsActive>false</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>e2202b2c-004f-47e9-a78b-ec46636f8cfc</ChannelID>
+    <Name>Portforlio</Name>
+    <IsActive>true</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+    <Name>Interesting</Name>
+    <IsActive>true</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>3fa6f6b5-dce3-4593-83c0-2b509d116057</ChannelID>
+    <Name>Toastmaster</Name>
+    <IsActive>true</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>c1f7071e-9820-4ca1-9bbe-32b8700173c0</ChannelID>
+    <Name>Interprofessional Healthcare Informatics</Name>
+    <IsActive>true</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>7d1cbb21-dd01-49bb-bd55-c4b1dd1671ef</ChannelID>
+    <Name>Gout</Name>
+    <IsActive>true</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>b5d670d5-4155-458c-a9a1-96d232e82c40</ChannelID>
+    <Name>Game Dev</Name>
+    <IsActive>True</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>77b1a343-b70c-4621-9fd2-42a11c034b22</ChannelID>
+    <Name>Vacation Related</Name>
+    <IsActive>True</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>4046eeb2-9da6-4117-821d-688ac22b3613</ChannelID>
+    <Name>Hello there 2</Name>
+    <IsActive>False</IsActive>
+  </Channel>
+  <Channel>
+    <ChannelID>b88f3fcf-953e-4dbf-b929-3634ee12d24e</ChannelID>
+    <Name>Read it later</Name>
+    <IsActive>True</IsActive>
+  </Channel>
+</DocumentElement>

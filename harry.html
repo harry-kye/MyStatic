@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Link Collection</title>
+    <script type="text/javascript">
+    function loadXMLDoc(dname)
+    {
+        if (window.ActiveXObject)
+          {
+            xhttp = new ActiveXObject("Microsoft.XMLHTTP");
+          }
+        else
+          {
+            xhttp=new XMLHttpRequest();
+          }
+        xhttp.open("GET", dname, false);
+
+        if (xhttp.overrideMimeType)
+            xhttp.overrideMimeType('text/xml');
+
+        xhttp.send(null);
+
+        if (window.ActiveXObject) {
+            xmlDoc = getMSXmlParser();
+            xmlDoc.async = false;
+            xmlDoc.loadXML(xhttp.responseText);
+        }
+        else {
+            xmlDoc = xhttp.responseXML;
+            if (!xmlDoc) {
+                xmlDoc = (new DOMParser()).parseFromString(xhttp.responseText, 'text/xml');
+            }
+        }
+        return xmlDoc;
+        
+    }
+
+    function displayResult()
+    {
+        xml=loadXMLDoc("channelitem.xml");
+        xsl = loadXMLDoc("harrychannel.xsl");
+        // code for IE
+        if (window.ActiveXObject)
+        {
+            xsl.setProperty("AllowDocumentFunction", true);
+            nex = xml.transformNode(xsl);
+            document.getElementById("example").innerHTML = nex;
+        }
+        // code for Mozilla, Firefox, Opera, etc.
+        else if (document.implementation && document.implementation.createDocument)
+        {
+            xsltProcessor=new XSLTProcessor();
+            xsltProcessor.importStylesheet(xsl);
+            resultDocument = xsltProcessor.transformToFragment(xml, document);
+            document.getElementById("example").appendChild(resultDocument);
+        }
+    }
+
+    function getMSXmlParser() {
+        var parser = ['Msxml2.DOMDocument.6.0',
+                      'Msxml2.DOMDocument.5.0',
+                      'Msxml2.DOMDocument.4.0',
+                      'Msxml2.DOMDocument.3.0',
+                      'MSXML2.DOMDocument',
+                      'Microsoft.XMLDOM']; // the same as MSXML.DOMDocument
+        for (var i in parser) {
+            try {
+                var xParser = new ActiveXObject(parser[i]);
+                if (xParser) {
+                    return xParser;
+                }
+            }
+            catch (e) { }
+        }
+        return null;
+    }
+
+    function ViewPage(p_id) {
+
+        var channelBlock = document.getElementsByName('channelBlock');
+        if (channelBlock != null && channelBlock.length > 0) {
+            for (var i = 0; i < channelBlock.length; i++) {
+                var divBlock = channelBlock[i];
+                if (divBlock.id != p_id && divBlock.style.display == 'block') {
+                    divBlock.style.display = 'none';
+                }
+            }
+        }
+
+        var table = document.getElementById(p_id);
+        if (table != null)
+        {
+            if (table.style.display == 'none') {
+                table.style.display = 'block';
+            } else {
+                table.style.display = 'none';
+            }
+        }
+    }
+    </script>
+</head>
+<body onload="displayResult();">
+<div id="example" />
+</body>
+</html>
