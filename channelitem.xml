@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
-<Channel>
+  <Channel>
     <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
     <Name>Some Home</Name>
     <IsActive>true</IsActive>
@@ -89,7 +89,7 @@
     <ChannelID>77b1a343-b70c-4621-9fd2-42a11c034b22</ChannelID>
     <Name>Vacation Related</Name>
     <IsActive>true</IsActive>
-  </Channel>  
+  </Channel>
   <Channel>
     <ChannelID>b88f3fcf-953e-4dbf-b929-3634ee12d24e</ChannelID>
     <Name>Read it later</Name>
@@ -3125,8 +3125,8 @@
   <Item>
     <ChannelID>7c52e9f4-aa12-4348-9cb0-704ac6a8f7e3</ChannelID>
     <Title>Peer Review</Title>
-    <Description>Peer Review</Description>
-    <LinkText>http://suite101.com/a/sample-performance-review-phrases-a217272</LinkText>
+    <Description>Review Example</Description>
+    <LinkText>http://www.sophisticatededge.com/sample-performance-review.html</LinkText>
     <ItemID>436</ItemID>
   </Item>
   <Item>
@@ -3356,8 +3356,8 @@
   <Item>
     <ChannelID>77b1a343-b70c-4621-9fd2-42a11c034b22</ChannelID>
     <Title>Expedia</Title>
-    <Description>Expedia</Description>
-    <LinkText>http://www.expedia.com/</LinkText>
+    <Description>10 Family Attractions in Las Vegas</Description>
+    <LinkText>http://govegas.about.com/od/attractions/tp/Must-Do-Things-In-Las-Vegas.htm</LinkText>
     <ItemID>468</ItemID>
   </Item>
   <Item>
@@ -4256,8 +4256,8 @@
     <ChannelID>19e98650-4b1a-44ed-ba85-69601edf93ee</ChannelID>
     <Title>
     </Title>
-    <Description>testesetesteseteset</Description>
-    <LinkText>http://www.lakehaven.org/</LinkText>
+    <Description>ASP.NET 5 MVC 6 Tutorial</Description>
+    <LinkText>http://mvc.readthedocs.org/en/latest/tutorials/mvc-with-entity-framework.html</LinkText>
     <ItemID>595</ItemID>
   </Item>
   <Item>
@@ -5512,5 +5512,1713 @@
     <Description>ADD Focus</Description>
     <LinkText>http://www.monster.com/career-advice/article/stay-focused-in-meetings-with-add-adhd</LinkText>
     <ItemID>772</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Title>Glass Door</Title>
+    <Description>Glass Door</Description>
+    <LinkText>https://www.glassdoor.com/index.htm</LinkText>
+    <ItemID>773</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Title>Quora</Title>
+    <Description>Quora</Description>
+    <LinkText>https://www.quora.com/</LinkText>
+    <ItemID>774</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Title>Resources Cracking code</Title>
+    <Description>Resources Cracking code</Description>
+    <LinkText>http://www.crackingthecodinginterview.com/resources.html</LinkText>
+    <ItemID>775</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>Computer Algorithms</Title>
+    <Description>Computer Algorithms</Description>
+    <LinkText>https://www.khanacademy.org/computing/computer-science/algorithms</LinkText>
+    <ItemID>776</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>Khan Computer Science</Title>
+    <Description>Khan Computer Science</Description>
+    <LinkText>https://www.khanacademy.org/computing/computer-science</LinkText>
+    <ItemID>777</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>Scrum Guide</Title>
+    <Description>Scrum Guide</Description>
+    <LinkText>http://www.scrumguides.org/scrum-guide.html</LinkText>
+    <ItemID>778</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>Minecraft Cheat sheet</Title>
+    <Description>Minecraft Cheat sheet</Description>
+    <LinkText>http://www.cheatcc.com/pc/minecraftcheatscodes.html</LinkText>
+    <ItemID>779</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Title>Nordstrom Jobs</Title>
+    <Description>Nordstrom Jobs</Description>
+    <LinkText>https://nordstrom.taleo.net/careersection/2/jobsearch.ftl?lang=en&amp;alt=1</LinkText>
+    <ItemID>780</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>Pattern Adapter vs Facade</Title>
+    <Description>Pattern Adapter vs Facade</Description>
+    <LinkText>https://gist.github.com/Integralist/d67f0f913d795f703b89</LinkText>
+    <ItemID>781</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>Adapter vs Facade</Title>
+    <Description>Adapter vs Facade</Description>
+    <LinkText>http://stackoverflow.com/questions/2961307/what-is-the-difference-between-the-facade-and-adapter-pattern</LinkText>
+    <ItemID>782</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Title>Cover Letter</Title>
+    <Description>Cover Letter</Description>
+    <LinkText>https://www.themuse.com/advice/the-8-cover-letters-you-need-to-read-now</LinkText>
+    <ItemID>783</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>Amazon AWS</Title>
+    <Description>Amazon AWS</Description>
+    <LinkText>https://aws.amazon.com</LinkText>
+    <ItemID>784</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>TSQLT SQL Unit Test</Title>
+    <Description>TSQLT SQL Unit Test</Description>
+    <LinkText>http://tsqlt.org/</LinkText>
+    <ItemID>785</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>Http Cookies</Title>
+    <Description>Http Cookies</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/ms533046.aspx</LinkText>
+    <ItemID>786</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+    <Title>Background Image</Title>
+    <Description>Background Image</Description>
+    <LinkText>http://www.simonbattersby.com/blog/cycling-a-background-image-with-jquery/</LinkText>
+    <ItemID>787</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>Transition image css3</Title>
+    <Description>Transition image css3</Description>
+    <LinkText>http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/</LinkText>
+    <ItemID>788</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>Fade images</Title>
+    <Description>Fade images</Description>
+    <LinkText>http://papermashup.com/fade-between-a-background-image-with-css3/</LinkText>
+    <ItemID>789</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>Alternating images</Title>
+    <Description>Alternating images</Description>
+    <LinkText>https://www.penflip.com/mmckelvy/alternating-background-images-with-css</LinkText>
+    <ItemID>790</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>image transition</Title>
+    <Description>image transition</Description>
+    <LinkText>http://tympanus.net/Tutorials/CSS3FullscreenSlideshow/</LinkText>
+    <ItemID>791</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>image transition github</Title>
+    <Description>image transition github</Description>
+    <LinkText>http://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-with-css3/</LinkText>
+    <ItemID>792</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>SOA vs REST</Title>
+    <Description>SOA vs REST</Description>
+    <LinkText>http://blog.smartbear.com/apis/understanding-soap-and-rest-basics/</LinkText>
+    <ItemID>793</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+    <Title>JetBrain</Title>
+    <Description>JetBrain</Description>
+    <LinkText>https://account.jetbrains.com/login</LinkText>
+    <ItemID>794</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Title>Cover Letter</Title>
+    <Description>Cover Letter</Description>
+    <LinkText>https://www.thebalance.com/software-developer-cover-letter-example-2060144</LinkText>
+    <ItemID>795</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Title>Cover Letter example</Title>
+    <Description>Cover Letter example</Description>
+    <LinkText>https://www.monster.com/career-advice/article/sample-cover-letter</LinkText>
+    <ItemID>796</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+    <Title>Cover Letter</Title>
+    <Description>Cover Letter</Description>
+    <LinkText>http://www.forbes.com/sites/dailymuse/2014/02/06/the-cover-letters-that-make-hiring-managers-smile-then-call-you/#659d237a58f5</LinkText>
+    <ItemID>797</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Title>Hired</Title>
+    <Description>Hired</Description>
+    <LinkText>https://hired.com/home</LinkText>
+    <ItemID>798</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Title>Milliman Job site</Title>
+    <Description>Milliman Job site</Description>
+    <LinkText>https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a</LinkText>
+    <ItemID>799</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Title>USA Jobs</Title>
+    <Description>USA Jobs</Description>
+    <LinkText>https://www.usajobs.gov/</LinkText>
+    <ItemID>800</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+    <Title>Hearst Benefit Site</Title>
+    <Description>Hearst Benefit Site</Description>
+    <LinkText>http://HearstBenefits.com</LinkText>
+    <ItemID>801</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Title>BECU jobs</Title>
+    <Description>BECU jobs</Description>
+    <LinkText>https://external-becu.icims.com/jobs/login?loginOnly=1&amp;redirect=&amp;hashed=124494126</LinkText>
+    <ItemID>802</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+    <Title>Virginia Mason Jobs</Title>
+    <Description>Virginia Mason Jobs</Description>
+    <LinkText>http://jobs.virginiamason.org/</LinkText>
+    <ItemID>803</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+    <Title>Wallpaper</Title>
+    <Description>Wallpaper</Description>
+    <LinkText>http://wallpaperswide.com/nature-desktop-wallpapers</LinkText>
+    <ItemID>804</ItemID>
+  </Item>
+  <Item>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+    <Title>Pinterest.com</Title>
+    <Description>Pinterest.com</Description>
+    <LinkText>http://pinterest.com</LinkText>
+    <ItemID>805</ItemID>
+  </Item>
+  <Item>
+    <ItemID>806</ItemID>
+    <Title>Seahawks Schedule</Title>
+    <Description>Seahawks Schedule</Description>
+    <LinkText>http://www.seahawks.com/schedule</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>807</ItemID>
+    <Title>Carpal Tunnel Syndrome</Title>
+    <Description>Carpal Tunnel Syndrome</Description>
+    <LinkText>http://www.webmd.com/pain-management/carpal-tunnel/carpal-tunnel-syndrome-home-treatment</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>808</ItemID>
+    <Title>Windows Service</Title>
+    <Description>Windows Service</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/zt39148a(v=vs.80).aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>809</ItemID>
+    <Title>Invoke Cmd</Title>
+    <Description>Invoke Cmd</Description>
+    <LinkText>https://stackoverflow.com/questions/1255909/execute-cmd-command-from-code</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>810</ItemID>
+    <Title>Komo weather</Title>
+    <Description>Komo weather</Description>
+    <LinkText>http://komonews.com/weather</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>811</ItemID>
+    <Title>Tsqlt example</Title>
+    <Description>Tsqlt example</Description>
+    <LinkText>http://tsqlt.org/user-guide/tsqlt-tutorial/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>812</ItemID>
+    <Title>Tsqlt setup</Title>
+    <Description>Tsqlt setup</Description>
+    <LinkText>https://www.simple-talk.com/sql/t-sql-programming/getting-started-testing-databases-with-tsqlt/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>813</ItemID>
+    <Title>Truth about Success</Title>
+    <Description>Truth about Success</Description>
+    <LinkText>http://www.inc.com/jeff-haden/10-brutal-truths-about-success-no-one-wants-to-hear-except-people-who-will-be-su.html</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>814</ItemID>
+    <Title>Inc.com</Title>
+    <Description>Inc.com</Description>
+    <LinkText>http://www.inc.com</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>815</ItemID>
+    <Title>LRU Cache</Title>
+    <Description>LRU Cache</Description>
+    <LinkText>http://mcicpc.cs.atu.edu/archives/2012/mcpc2012/lru/lru.html</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>816</ItemID>
+    <Title>LRU Cache</Title>
+    <Description>LRU Cache</Description>
+    <LinkText>http://www.geeksforgeeks.org/implement-lru-cache/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>817</ItemID>
+    <Title>LRU Cache</Title>
+    <Description>LRU Cache</Description>
+    <LinkText>https://www.quora.com/What-is-the-best-way-to-Implement-a-LRU-Cache</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>818</ItemID>
+    <Title>LRU Cache C#</Title>
+    <Description>LRU Cache C#</Description>
+    <LinkText>http://www.sinbadsoft.com/blog/a-lru-cache-implementation/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>819</ItemID>
+    <Title>Intro Domain Driven</Title>
+    <Description>Intro Domain Driven</Description>
+    <LinkText>http://www.methodsandtools.com/archive/archive.php?id=97</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>820</ItemID>
+    <Title>Microservices</Title>
+    <Description>Microservices</Description>
+    <LinkText>http://www.martinfowler.com/articles/microservices.html</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>821</ItemID>
+    <Title>Microservices</Title>
+    <Description>Microservices</Description>
+    <LinkText>http://microservices.io/patterns/microservices.html</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>822</ItemID>
+    <Title>Microservices</Title>
+    <Description>Microservices</Description>
+    <LinkText>https://smartbear.com/learn/api-design/what-are-microservices/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>823</ItemID>
+    <Title>Microservices Orchestrate</Title>
+    <Description>Microservices Orchestrate</Description>
+    <LinkText>https://opensource.com/resources/what-are-microservices</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>824</ItemID>
+    <Title>Microservices Thoughtworks</Title>
+    <Description>Microservices Thoughtworks</Description>
+    <LinkText>https://www.thoughtworks.com/insights/blog/microservices-nutshell</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>825</ItemID>
+    <Title>LRU Github</Title>
+    <Description>LRU Github</Description>
+    <LinkText>https://gist.github.com/nakhli/6686251</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>826</ItemID>
+    <Title>Microservices Microsoft</Title>
+    <Description>Microservices Microsoft</Description>
+    <LinkText>https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview-microservices</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>827</ItemID>
+    <Title>PENICILLIN</Title>
+    <Description>PENICILLIN</Description>
+    <LinkText>http://www.liquor.com/recipes/penicillin/?utm_source=Sailthru&amp;utm_medium=email&amp;utm_campaign=12.3%20Whisky%20Cocktail%20sat%20consumer-ab&amp;utm_term=Liquor:%20Total%20%28Consumer%29#gs.yWohdhs</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>828</ItemID>
+    <Title>Quotes</Title>
+    <Description>Quotes</Description>
+    <LinkText>https://www.brainyquote.com/quotes/authors/b/bjarne_stroustrup.html</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>829</ItemID>
+    <Title>Software craftmanship</Title>
+    <Description>Software craftmanship</Description>
+    <LinkText>http://manifesto.softwarecraftsmanship.org/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>830</ItemID>
+    <Title>Software craftmanship</Title>
+    <Description>Software craftmanship</Description>
+    <LinkText>https://en.wikipedia.org/wiki/Software_craftsmanship</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>831</ItemID>
+    <Title>Visual Studio 2015</Title>
+    <Description>Visual Studio 2015</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/dd831853(v=vs.140).aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>832</ItemID>
+    <Title>Parallel Downloads</Title>
+    <Description>Parallel Downloads</Description>
+    <LinkText>http://yuiblog.com/blog/2007/04/11/performance-research-part-4/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>833</ItemID>
+    <Title>YSlow</Title>
+    <Description>YSlow</Description>
+    <LinkText>http://yslow.org/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>834</ItemID>
+    <Title>HTML vs XHTML</Title>
+    <Description>HTML vs XHTML</Description>
+    <LinkText>http://www.webstandards.org/learn/articles/askw3c/oct2003/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>835</ItemID>
+    <Title>Frontend Q &amp; A</Title>
+    <Description>Frontend Q &amp; A</Description>
+    <LinkText>https://github.com/noraesae/Front-end-Developer-Interview-Questions-And-Answers</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>836</ItemID>
+    <Title>HTML Reference</Title>
+    <Description>HTML Reference</Description>
+    <LinkText>http://www.w3schools.com/tags/default.asp</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>837</ItemID>
+    <Title>CSS Reference</Title>
+    <Description>CSS Reference</Description>
+    <LinkText>http://www.w3schools.com/cssref/default.asp</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>838</ItemID>
+    <Title>No Safe Place</Title>
+    <Description>No Safe Place</Description>
+    <LinkText>http://www.pbs.org/kued/nosafeplace/interv/kimmel.html</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>839</ItemID>
+    <Title>County Cat</Title>
+    <Description>AutoZone</Description>
+    <LinkText>https://countycat.mcfls.org</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>840</ItemID>
+    <Title>Bank 1 Sensor 2 Change</Title>
+    <Description>Bank 1 Sensor 2 Change</Description>
+    <LinkText>https://www.youtube.com/watch?v=8BYa_FzmsEQ</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>841</ItemID>
+    <Title>Bank 1 Sensor 2 Removal</Title>
+    <Description>Bank 1 Sensor 2 Removal</Description>
+    <LinkText>https://www.youtube.com/watch?v=Xlt-rc6_cVA</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>842</ItemID>
+    <Title>Douglas Crockford</Title>
+    <Description>Douglas Crockford</Description>
+    <LinkText>http://javascript.crockford.com</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>843</ItemID>
+    <Title>ASP.NET JavaScript</Title>
+    <Description>ASP.NET JavaScript</Description>
+    <LinkText>http://odetocode.com/articles/473.aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>844</ItemID>
+    <Title>CSS3 Selectors</Title>
+    <Description>CSS3 Selectors</Description>
+    <LinkText>http://www.w3.org/TR/css3-selectors</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>845</ItemID>
+    <Title>Distributed Transaction</Title>
+    <Description>Distributed Transaction</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/ms254973(v=vs.110).aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>846</ItemID>
+    <Title>TypeScript</Title>
+    <Description>TypeScript</Description>
+    <LinkText>http://www.typescriptlang.org/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>847</ItemID>
+    <Title>Papa Murphy</Title>
+    <Description>Papa Murphy</Description>
+    <LinkText>https://www.papamurphys.com/</LinkText>
+    <ChannelID>7c52e9f4-aa12-4348-9cb0-704ac6a8f7e3</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>848</ItemID>
+    <Title>Unit test static private</Title>
+    <Description>Unit test static private</Description>
+    <LinkText>http://venkatcsharpinterview.blogspot.com/2011/07/unit-testing-private-static-method-in-c.html</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>849</ItemID>
+    <Title>Holiday greetings</Title>
+    <Description>Holiday greetings</Description>
+    <LinkText>http://ideas.hallmark.com/articles/christmas-ideas/christmas-wishes/</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>850</ItemID>
+    <Title>Holiday messages</Title>
+    <Description>Holiday messages</Description>
+    <LinkText>http://www.bethanyroberts.com/Flower_Shop_Christmas_Card_Message_Ideas.htm</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>851</ItemID>
+    <Title>Christmas msg co-workers</Title>
+    <Description>Christmas msg co-workers</Description>
+    <LinkText>http://www.cardmessages.com/christmas/workplace-christmas-messages/</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>852</ItemID>
+    <Title>Card templates</Title>
+    <Description>Card templates</Description>
+    <LinkText>https://www.themuse.com/advice/the-9-holiday-cards-you-need-to-send-to-your-networkand-what-to-write-in-each-one</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>853</ItemID>
+    <Title>CourseRA Cloud</Title>
+    <Description>CourseRA Cloud</Description>
+    <LinkText>https://www.coursera.org/specializations/cloud-computing?utm_medium=email&amp;utm_source=marketing&amp;utm_campaign=yQ-acLYKEeatu00Hb23X8w</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>854</ItemID>
+    <Title>Javascript Closure</Title>
+    <Description>JavaScript Closure</Description>
+    <LinkText>http://javascriptissexy.com/understand-javascript-closures-with-ease/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>855</ItemID>
+    <Title>JavaScript Scope</Title>
+    <Description>JavaScript Scope</Description>
+    <LinkText>http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>856</ItemID>
+    <Title>Function Closure</Title>
+    <Description>Function Closure</Description>
+    <LinkText>http://www.w3schools.com/js/js_function_closures.asp</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>857</ItemID>
+    <Title>Government Jobs</Title>
+    <Description>Government Jobs</Description>
+    <LinkText>https://www.governmentjobs.com/</LinkText>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>858</ItemID>
+    <Title>Cyber Coders</Title>
+    <Description>Cyber Coders</Description>
+    <LinkText>https://www.cybercoders.com/</LinkText>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>859</ItemID>
+    <Title>Alaska Airline</Title>
+    <Description>Alaska Airline</Description>
+    <LinkText>http://alaskaair.jobs/</LinkText>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>860</ItemID>
+    <Title>C# Arrays</Title>
+    <Description>C# Arrays</Description>
+    <LinkText>http://www.csharpstar.com/top-10-arrays-programming-interview-questions-in-csharp/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>861</ItemID>
+    <Title>Array vs List</Title>
+    <Description>Array vs List</Description>
+    <LinkText>https://stackoverflow.com/questions/434761/array-versus-listt-when-to-use-which</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>862</ItemID>
+    <Title>Array vs List</Title>
+    <Description>Array vs List</Description>
+    <LinkText>https://stackoverflow.com/questions/5777729/what-is-difference-between-string-array-and-list-of-string-in-c-sharp</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>863</ItemID>
+    <Title>Difference Array vs List</Title>
+    <Description>Difference Array vs List</Description>
+    <LinkText>http://www.c-sharpcorner.com/forums/difference-between-list-and-array-in-c-sharp</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>864</ItemID>
+    <Title>When to use Array &amp; List</Title>
+    <Description>When to use Array &amp; List</Description>
+    <LinkText>https://stackoverflow.com/questions/434761/array-versus-listt-when-to-use-which</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>865</ItemID>
+    <Title>Harmful Array</Title>
+    <Description>Harmful Array</Description>
+    <LinkText>https://blogs.msdn.microsoft.com/ericlippert/2008/09/22/arrays-considered-somewhat-harmful/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>866</ItemID>
+    <Title>Web Page Performance </Title>
+    <Description>Perf Page Part4</Description>
+    <LinkText>http://yuiblog.com/blog/2007/04/11/performance-research-part-4/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>867</ItemID>
+    <Title>Page Perf Part1</Title>
+    <Description>Page Perf Part1</Description>
+    <LinkText>http://yuiblog.com/blog/2006/11/28/performance-research-part-1/</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>868</ItemID>
+    <Title>Page Perf Part2</Title>
+    <Description>Page Perf Part2</Description>
+    <LinkText>http://yuiblog.com/blog/2007/01/04/performance-research-part-2/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>869</ItemID>
+    <Title>Page Perf Part3</Title>
+    <Description>Page Perf Part3</Description>
+    <LinkText>http://yuiblog.com/blog/2007/03/01/performance-research-part-3/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>870</ItemID>
+    <Title>Perf Fix IE</Title>
+    <Description>Perf Fix IE</Description>
+    <LinkText>https://support.microsoft.com/en-us/kb/282402</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>871</ItemID>
+    <Title>Sql Query Performance</Title>
+    <Description>Sql Query Performance</Description>
+    <LinkText>http://www.developer.com/db/slideshows/10-ways-to-improve-sql-query-performance.html</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>872</ItemID>
+    <Title>C# Collection Fundamentals</Title>
+    <Description>C# Collection Fundamentals</Description>
+    <LinkText>http://geekswithblogs.net/BlackRabbitCoder/archive/2011/06/16/c.net-fundamentals-choosing-the-right-collection-class.aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>873</ItemID>
+    <Title>Merlot vs Cabenet</Title>
+    <Description>Merlot vs Cabenet</Description>
+    <LinkText>https://learn.winecoolerdirect.com/cabernet-sauvignon-vs-merlot/</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>874</ItemID>
+    <Title>Task Async</Title>
+    <Description>Task Async</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/hh873175(v=vs.110).aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>875</ItemID>
+    <Title>Regex Storm</Title>
+    <Description>Regex Storm</Description>
+    <LinkText>http://www.regexstorm.net/tester</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>876</ItemID>
+    <Title>HackerRank</Title>
+    <Description>HackerRank</Description>
+    <LinkText>https://www.hackerrank.com/harrykye</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>877</ItemID>
+    <Title>List vs Dictionary</Title>
+    <Description>List vs Dictionary</Description>
+    <LinkText>http://net-informations.com/faq/general/dictionary-list.htm</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>878</ItemID>
+    <Title>MVVM</Title>
+    <Description>MVVM</Description>
+    <LinkText>https://www.tutorialspoint.com/mvvm/index.htm</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>879</ItemID>
+    <Title>Tutorial Point</Title>
+    <Description>Tutorial Point</Description>
+    <LinkText>https://www.tutorialspoint.com/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>880</ItemID>
+    <Title>MongoDB</Title>
+    <Description>MongoDB</Description>
+    <LinkText>https://www.tutorialspoint.com/mongodb/index.htm</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>881</ItemID>
+    <Title>MongoDB Tutorial</Title>
+    <Description>MongoDB Tutorial</Description>
+    <LinkText>http://www.w3resource.com/mongodb/introduction-mongodb.php</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>882</ItemID>
+    <Title>Cache web pages</Title>
+    <Description>Cache web pages</Description>
+    <LinkText>https://www.mnot.net/cache_docs/</LinkText>
+    <ChannelID>0aaa952a-339a-4a0a-80ea-acbd4f7b82d7</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>883</ItemID>
+    <Title>Locator Pattern</Title>
+    <Description>Locator Pattern</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/ff648968.aspx</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>884</ItemID>
+    <Title>Service Locator</Title>
+    <Description>Service Locator</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/ff921142.aspx</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>885</ItemID>
+    <Title>Unity Container</Title>
+    <Description>Unity Container</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/dd203101.aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>886</ItemID>
+    <Title>Chrome debug</Title>
+    <Description>Chrome Using Console</Description>
+    <LinkText>https://developers.google.com/web/tools/chrome-devtools/console/?utm_source=dcc&amp;utm_medium=redirect&amp;utm_campaign=2016q3</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>887</ItemID>
+    <Title>Chrome Devtools</Title>
+    <Description>Chrome Devtools</Description>
+    <LinkText>https://developer.chrome.com/devtools</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>888</ItemID>
+    <Title>Chorme Devtools Tutorial</Title>
+    <Description>Chorme Devtools Tutorial</Description>
+    <LinkText>https://www.codeschool.com/courses/discover-devtools</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>889</ItemID>
+    <Title>Chrome JavaScript Debug</Title>
+    <Description>Chrome JavaScript Debug</Description>
+    <LinkText>http://meeech.amihod.com/getting-started-with-javascript-debugging-in-chrome/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>890</ItemID>
+    <Title>Chrome debug tutorial</Title>
+    <Description>Chrome debug tutorial</Description>
+    <LinkText>https://developer.chrome.com/extensions/tut_debugging</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>891</ItemID>
+    <Title>Chrome Extension</Title>
+    <Description>Chrome Extension</Description>
+    <LinkText>https://developer.chrome.com/extensions/getstarted</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>892</ItemID>
+    <Title>SQL MAXDOP</Title>
+    <Description>SQL MAXDOP</Description>
+    <LinkText>http://blog.sqlauthority.com/2010/03/15/sql-server-maxdop-settings-to-limit-query-to-run-on-specific-cpu/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>893</ItemID>
+    <Title>Free Dictionary</Title>
+    <Description>Free Dictionary</Description>
+    <LinkText>http://idioms.thefreedictionary.com/</LinkText>
+    <ChannelID>7a696e7a-aa35-4f35-b3ac-fd63d73dca59</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>894</ItemID>
+    <Title>Event Driven Architecture</Title>
+    <Description>Event Driven Architecture</Description>
+    <LinkText>https://blog.scooletz.com/2015/03/24/event-driven-architecture-feed-your-head/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>895</ItemID>
+    <Title>Delegate</Title>
+    <Description>Delegate</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/ms173171.aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>896</ItemID>
+    <Title>Delegates and Events</Title>
+    <Description>Delegates and Events</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/orm-9780596521066-01-17.aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>897</ItemID>
+    <Title>Locator Pattern</Title>
+    <Description>Locator Pattern</Description>
+    <LinkText>http://stefanoricciardi.com/2009/09/25/service-locator-pattern-in-csharpa-simple-example/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>898</ItemID>
+    <Title>Locator vs Dependency Injectin</Title>
+    <Description>Locator vs Dependency Injectin</Description>
+    <LinkText>https://stackoverflow.com/questions/4985455/dependency-injection-vs-service-location</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>899</ItemID>
+    <Title>Locator Pattern</Title>
+    <Description>Locator Pattern</Description>
+    <LinkText>http://www.c-sharpcorner.com/UploadFile/dacca2/service-locator-design-pattern/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>900</ItemID>
+    <Title>How to answer</Title>
+    <Description>How to answer</Description>
+    <LinkText>https://www.themuse.com/advice/4-better-ways-to-answer-why-are-you-leaving-your-job</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>901</ItemID>
+    <Title>C-sharp 6.0</Title>
+    <Description>C-sharp 6.0</Description>
+    <LinkText>http://www.c-sharpcorner.com/uploadfile/8ef97c/full-c-sharp-6-0-in-single-article-on-visual-studio-2015-preview/</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>902</ItemID>
+    <Title>Severance Pay</Title>
+    <Description>Severance Pay</Description>
+    <LinkText>http://www.salary.com/10-things-to-know-about-severance-packages/</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>903</ItemID>
+    <Title>IEnumerable</Title>
+    <Description>IEnumerable</Description>
+    <LinkText>https://ayende.com/blog/3082/pipes-and-filters-the-ienumerable-appraoch</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>904</ItemID>
+    <Title>C# Format</Title>
+    <Description>C# 3.0 Nutshell</Description>
+    <LinkText>http://www.albahari.com/nutshell/ch06.aspx</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>905</ItemID>
+    <Title>C# Indexers</Title>
+    <Description>C# Indexers</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/aa288465(VS.71).aspx</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>906</ItemID>
+    <Title>C# Equals</Title>
+    <Description>C# Equals</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/2dts52z7.aspx</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>907</ItemID>
+    <Title>C# Sorted List vs Dictionary</Title>
+    <Description>C# Sorted List vs Dictionary</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/ms132319.aspx</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>908</ItemID>
+    <Title>C# Lazy</Title>
+    <Description>C# Lazy</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/dd997286.aspx</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>909</ItemID>
+    <Title>JavaScript</Title>
+    <Description>JavaScript</Description>
+    <LinkText>https://developer.mozilla.org/en-US/docs/Web/JavaScript</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>910</ItemID>
+    <Title>Idiomatic JavaScript</Title>
+    <Description>Idiomatic JavaScript</Description>
+    <LinkText>https://github.com/rwldrn/idiomatic.js</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>911</ItemID>
+    <Title>ECMAScript</Title>
+    <Description>ECMAScript</Description>
+    <LinkText>http://www.ecma-international.org/ecma-262/5.1/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>912</ItemID>
+    <Title>Kyle Simpson</Title>
+    <Description>Kyle Simpson</Description>
+    <LinkText>https://speakerdeck.com/getify</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>913</ItemID>
+    <Title>ECMAScript 6 Compat</Title>
+    <Description>ECMAScript 6 Compat</Description>
+    <LinkText>http://kangax.github.io/compat-table/es6</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>914</ItemID>
+    <Title>Traceur-Compiler</Title>
+    <Description>ES6 Traceur-Compiler</Description>
+    <LinkText>https://github.com/google/traceur-compiler</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>915</ItemID>
+    <Title>Module Loader</Title>
+    <Description>ES6 Module Loader</Description>
+    <LinkText>https://github.com/ModuleLoader/es-module-loader</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>916</ItemID>
+    <Title>Hearst Savings Voya</Title>
+    <Description>Hearst Savings Voya</Description>
+    <LinkText>http://hearstretirementsavings.com</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>917</ItemID>
+    <Title>HTTP 2.0</Title>
+    <Description>HTTP 2.0</Description>
+    <LinkText>https://tools.ietf.org/html/draft-ietf-httpbis-http2-04</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>918</ItemID>
+    <Title>C# Equality</Title>
+    <Description>C# Equality</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/dd183755.aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>919</ItemID>
+    <Title>What's new C# 6.0</Title>
+    <Description>What's new C# 6.0</Description>
+    <LinkText>https://www.simple-talk.com/dotnet/net-framework/whats-new-in-c-6/</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>920</ItemID>
+    <Title>MSDN C# 6.0</Title>
+    <Description>MSDN C# 6.0</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/magazine/dn802602.aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>921</ItemID>
+    <Title>Angular JS</Title>
+    <Description>Angular JS</Description>
+    <LinkText>https://angularjs.org</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>922</ItemID>
+    <Title>Built With Angular JS</Title>
+    <Description>Built With Angular JS</Description>
+    <LinkText>https://builtwith.angularjs.org</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>923</ItemID>
+    <Title>Plunker</Title>
+    <Description>Plunker</Description>
+    <LinkText>http://plnkr.co/edit/</LinkText>
+    <ChannelID>b5d670d5-4155-458c-a9a1-96d232e82c40</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>924</ItemID>
+    <Title>WCF vs WebAPI</Title>
+    <Description>WCF vs WebAPI</Description>
+    <LinkText>http://www.dotnettricks.com/learn/webapi/difference-between-wcf-and-web-api-and-wcf-rest-and-web-service</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>925</ItemID>
+    <Title>Static Method Unit Test</Title>
+    <Description>Static Method Unit Test</Description>
+    <LinkText>https://adventuresdotnet.blogspot.com/2011/03/mocking-static-methods-for-unit-testing.html</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>926</ItemID>
+    <Title>MVC5 WebGrid</Title>
+    <Description>MVC5 WebGrid</Description>
+    <LinkText>http://www.techstrikers.com/Articles/webgrid-in-mvc5-with-razor-view-and-entity-framework6.php</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>927</ItemID>
+    <Title>Middle class</Title>
+    <Description>Middle class</Description>
+    <LinkText>https://hbr.org/2016/11/what-so-many-people-dont-get-about-the-u-s-working-class?utm_campaign=HBR&amp;utm_source=linkedin&amp;utm_medium=social</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>928</ItemID>
+    <Title>Hearst Savings Voya</Title>
+    <Description>Hearst Savings Voya</Description>
+    <LinkText>https://hearstretirementsavings.voya.com</LinkText>
+    <ChannelID>19e98650-4b1a-44ed-ba85-69601edf93ee</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>929</ItemID>
+    <Title>jQuery questions</Title>
+    <Description>jQuery questions</Description>
+    <LinkText>https://www.codeproject.com/Articles/618484/Latest-jQuery-interview-questions-and-answers</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>930</ItemID>
+    <Title>jQuery Questions 2</Title>
+    <Description>jQuery Questions 2</Description>
+    <LinkText>http://www.interviewquestionspdf.com/2015/02/top-50-jquery-interview-questions.html</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>931</ItemID>
+    <Title>jQuery Questions 0</Title>
+    <Description>jQuery Questions 0</Description>
+    <LinkText>https://www.toptal.com/jquery/interview-questions</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>932</ItemID>
+    <Title>Selenium examples</Title>
+    <Description>Selenium examples</Description>
+    <LinkText>https://wiki.saucelabs.com/display/DOCS/Example+Selenium+Scripts+for+Automated+Website+Tests</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>933</ItemID>
+    <Title>Least Recently Used Cache</Title>
+    <Description>Least Recently Used Cache</Description>
+    <LinkText>https://gist.github.com/jianminchen/3dc7da7e0465819e6aa8c10c71901723</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>934</ItemID>
+    <Title>Least Recently Used Cache 2</Title>
+    <Description>Least Recently Used Cache 2</Description>
+    <LinkText>http://www.sinbadsoft.com/blog/a-lru-cache-implementation/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>935</ItemID>
+    <Title>Least Recently Used Cache 3</Title>
+    <Description>Least Recently Used Cache 3</Description>
+    <LinkText>https://github.com/AvetisG/LRUCache.NET</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>936</ItemID>
+    <Title>Caesar Cipher</Title>
+    <Description>Caesar Cipher</Description>
+    <LinkText>http://www.c-sharpcorner.com/article/caesar-cipher-in-c-sharp/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>937</ItemID>
+    <Title>Indeed ASP NET</Title>
+    <Description>Indeed ASP NET</Description>
+    <LinkText>https://www.indeed.com/jobs?q=ASP+Net+Mvc+3+Dependency+Injection+With&amp;matchtype=b&amp;network=g&amp;device=c&amp;devicemodel=&amp;creative=62923645889&amp;keyword=_inurl%3Aindeed.com%2Fq-%23inurl%3Ajobs&amp;placement=&amp;param1=&amp;param2=&amp;random=11122770018936228144&amp;aceid=&amp;adposition=1s1&amp;gclid=CMjS6KXfxNECFUtNfgoda-gHbw</LinkText>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>938</ItemID>
+    <Title>Trees</Title>
+    <Description>Trees</Description>
+    <LinkText>https://www.codeproject.com/articles/23949/building-trees-from-lists-in-net</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>939</ItemID>
+    <Title>HSA Bank</Title>
+    <Description>HSA Bank</Description>
+    <LinkText>https://myaccounts.hsabank.com/</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>940</ItemID>
+    <Title>PLUpload</Title>
+    <Description>PLUpload</Description>
+    <LinkText>http://www.plupload.com/</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>941</ItemID>
+    <Title>SOLID C#</Title>
+    <Description>SOLID Software Dev</Description>
+    <LinkText>http://www.codemag.com/article/1001061</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>942</ItemID>
+    <Title>IP Lookup</Title>
+    <Description>IP Lookup</Description>
+    <LinkText>https://www.iplocation.net/</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>943</ItemID>
+    <Title>Reverse Linked List</Title>
+    <Description>Reverse Linked List</Description>
+    <LinkText>http://rextester.com/BUCAR92800</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>944</ItemID>
+    <Title>SSL Cert Store</Title>
+    <Description>SSL Cert Store</Description>
+    <LinkText>https://helpdesk.ssls.com/hc/en-us/articles/204395282-How-to-export-SSL-certificate-from-one-IIS-7-server-to-another</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>945</ItemID>
+    <Title>MVC Table Paging</Title>
+    <Description>MVC Table Paging</Description>
+    <LinkText>http://www.itworld.com/article/2956575/development/how-to-sort-search-and-paginate-tables-in-asp-net-mvc-5.html</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>946</ItemID>
+    <Title>Bootstrap datetimepicker</Title>
+    <Description>Bootstrap datetimepicker</Description>
+    <LinkText>https://eonasdan.github.io/bootstrap-datetimepicker/Options/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>947</ItemID>
+    <Title>Web API Cache</Title>
+    <Description>Web API Cache</Description>
+    <LinkText>https://code.msdn.microsoft.com/Caching-In-Web-API-cb40be30</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>948</ItemID>
+    <Title>MVC Page Paging</Title>
+    <Description>MVC Page Paging</Description>
+    <LinkText>http://www.codeguru.com/csharp/.net/net_asp/mvc/implementing-sorting-and-paging-in-asp.net-mvc.html</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>949</ItemID>
+    <Title>Flash of unstyled content</Title>
+    <Description>Flash of unstyled content</Description>
+    <LinkText>https://stackoverflow.com/questions/3221561/eliminate-flash-of-unstyled-content</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>950</ItemID>
+    <Title>FOUC</Title>
+    <Description>FOUC</Description>
+    <LinkText>https://docs.google.com/presentation/d/1jt_VQC5LDF-e9j8Wtxu4KZPa8ItlmYmntGy5tdcbGOY/present#slide=id.g16b58378_0_22</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>951</ItemID>
+    <Title>VS 2015 Not Opening cshtml</Title>
+    <Description>VS 2015 Not Opening cshtml</Description>
+    <LinkText>https://github.com/aspnet/Tooling/issues/276</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>952</ItemID>
+    <Title>VS2015 unable to open cshtml</Title>
+    <Description>VS2015 unable to open cshtml</Description>
+    <LinkText>http://www.aspdotnetchamp.com/2016/07/visual-studio-2015-unable-to-open.html</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>953</ItemID>
+    <Title>Web API vs WCF</Title>
+    <Description>Web API vs WCF</Description>
+    <LinkText>https://www.codeproject.com/Articles/769140/Top-ASP-NET-Web-API-Interview-Questions</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>954</ItemID>
+    <Title>JavaScript Closure</Title>
+    <Description>JavaScript Closure</Description>
+    <LinkText>http://javascriptissexy.com/understand-javascript-closures-with-ease/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>955</ItemID>
+    <Title>Thank you letter</Title>
+    <Description>Thank you letter</Description>
+    <LinkText>https://www.thebalance.com/job-interview-thank-you-letter-examples-2063964</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>956</ItemID>
+    <Title>Worksource</Title>
+    <Description>Worksource</Description>
+    <LinkText>https://secure.esd.wa.gov/home/WorkSourceWA/Seeker/Account/Login?status=0&amp;language=en</LinkText>
+    <ChannelID>1f1a4307-d057-4627-b7e9-6bdd1eda7c56</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>957</ItemID>
+    <Title>Federal Way Pets License</Title>
+    <Description>Federal Way Pets License</Description>
+    <LinkText>https://license.cityoffederalway.com/pets/NewOwner.aspx</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>958</ItemID>
+    <Title>C# Interview Questions</Title>
+    <Description>C# Interview Questions</Description>
+    <LinkText>http://career.guru99.com/top-50-c-sharp-interview-questions-answers/</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>959</ItemID>
+    <Title>Why people quit their jobs</Title>
+    <Description>Why people quit their jobs</Description>
+    <LinkText>https://www.fastcompany.com/3068243/the-future-of-work/these-are-the-top-three-reasons-people-quit-their-jobs</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>960</ItemID>
+    <Title>Database Normalization</Title>
+    <Description>Database Normalization</Description>
+    <LinkText>http://www.studytonight.com/dbms/database-normalization.php</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>961</ItemID>
+    <Title>Reference Source</Title>
+    <Description>Reference Source</Description>
+    <LinkText>https://referencesource.microsoft.com/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>962</ItemID>
+    <Title>Fluent MVC Testing</Title>
+    <Description>Fluent MVC Testing</Description>
+    <LinkText>http://fluentmvctesting.teststack.net/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>963</ItemID>
+    <Title>Mock HttpContext</Title>
+    <Description>Mock HttpContext</Description>
+    <LinkText>http://www.hanselman.com/blog/ASPNETMVCSessionAtMix08TDDAndMvcMockHelpers.aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>964</ItemID>
+    <Title>Teststack</Title>
+    <Description>Teststack</Description>
+    <LinkText>http://www.teststack.net/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>965</ItemID>
+    <Title>MVC Model unit test</Title>
+    <Description>MVC Model unit test</Description>
+    <LinkText>https://visualstudiomagazine.com/articles/2015/06/19/tdd-asp-net-mvc-part-4-unit-testing.aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>966</ItemID>
+    <Title>Unit test mvc controller</Title>
+    <Description>Unit test mvc controller</Description>
+    <LinkText>https://www.tutorialspoint.com/asp.net_mvc/asp.net_mvc_unit_testing.htm</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>967</ItemID>
+    <Title>Active Directory</Title>
+    <Description>Active Directory</Description>
+    <LinkText>https://stackoverflow.com/questions/20156913/get-active-directory-user-information-with-windows-authentication-in-mvc-4</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>968</ItemID>
+    <Title>Active Directory Current User</Title>
+    <Description>Active Directory Current User</Description>
+    <LinkText>https://stackoverflow.com/questions/10584545/activedirectory-current-username-in-asp-net</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>969</ItemID>
+    <Title>Reporting ASP.NET</Title>
+    <Description>Reporting ASP.NET</Description>
+    <LinkText>https://stackoverflow.com/questions/30709782/mvc5-ssrs-reportviewer-how-to-implement</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>970</ItemID>
+    <Title>MVC Razor ReportViewer</Title>
+    <Description>MVC Razor ReportViewer</Description>
+    <LinkText>https://www.codeproject.com/articles/609580/prototype-mvc-razor-reportviewer-rdlc</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>971</ItemID>
+    <Title>MVC SSRS Reporting</Title>
+    <Description>MVC SSRS Reporting</Description>
+    <LinkText>http://www.c-sharpcorner.com/article/ssrs-report-in-asp-net-mvc-5/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>972</ItemID>
+    <Title>MSBuild commandline</Title>
+    <Description>MSBuild commandline</Description>
+    <LinkText>https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/visual-studio-web-deployment/command-line-deployment</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>973</ItemID>
+    <Title>Remote Debugging</Title>
+    <Description>Remote Debugging</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/mt621540.aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>974</ItemID>
+    <Title>Remote Debugging</Title>
+    <Description>Remote Debugging</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/mt621540.aspx</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>975</ItemID>
+    <Title>Remove Debug</Title>
+    <Description>Remove Debug</Description>
+    <LinkText>https://msdn.microsoft.com/en-us/library/mt621540.aspx</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>976</ItemID>
+    <Title>Inc</Title>
+    <Description>Inc</Description>
+    <LinkText>http://www.inc.com/</LinkText>
+    <ChannelID>0aaa952a-339a-4a0a-80ea-acbd4f7b82d7</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>977</ItemID>
+    <Title>Washington Post</Title>
+    <Description>Washington Post</Description>
+    <LinkText>https://www.washingtonpost.com/</LinkText>
+    <ChannelID>0aaa952a-339a-4a0a-80ea-acbd4f7b82d7</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>978</ItemID>
+    <Title>BBC</Title>
+    <Description>BBC</Description>
+    <LinkText>http://www.bbc.com/</LinkText>
+    <ChannelID>0aaa952a-339a-4a0a-80ea-acbd4f7b82d7</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>979</ItemID>
+    <Title>CNN</Title>
+    <Description>CNN</Description>
+    <LinkText>http://www.cnn.com/</LinkText>
+    <ChannelID>0aaa952a-339a-4a0a-80ea-acbd4f7b82d7</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>980</ItemID>
+    <Title>Fox News</Title>
+    <Description>Fox News</Description>
+    <LinkText>http://www.foxnews.com/</LinkText>
+    <ChannelID>0aaa952a-339a-4a0a-80ea-acbd4f7b82d7</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>981</ItemID>
+    <Title>ABC News</Title>
+    <Description>ABC News</Description>
+    <LinkText>http://abcnews.go.com/</LinkText>
+    <ChannelID>0aaa952a-339a-4a0a-80ea-acbd4f7b82d7</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>982</ItemID>
+    <Title>Yahoo News</Title>
+    <Description>Yahoo News</Description>
+    <LinkText>https://www.yahoo.com/news/</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>983</ItemID>
+    <Title>NBC News</Title>
+    <Description>NBC News</Description>
+    <LinkText>http://www.nbcnews.com/</LinkText>
+    <ChannelID>0aaa952a-339a-4a0a-80ea-acbd4f7b82d7</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>984</ItemID>
+    <Title>Spiral</Title>
+    <Description>Spiral</Description>
+    <LinkText>http://www.c-sharpcorner.com/UploadFile/6d982e/create-a-spiral-matrix-by-taking-number-of-rows-and-columns/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>985</ItemID>
+    <Title>IP Lookup WHOIS</Title>
+    <Description>IP Lookup WHOIS</Description>
+    <LinkText>https://www.whatismyip.com/ip-whois-lookup/</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>986</ItemID>
+    <Title>IP Lookup Tool</Title>
+    <Description>IP Lookup Tool</Description>
+    <LinkText>https://www.ultratools.com/tools/yourIPResult</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>987</ItemID>
+    <Title>Big O Notation</Title>
+    <Description>Big O Notation</Description>
+    <LinkText>http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>988</ItemID>
+    <Title>ASPX Life Cycle</Title>
+    <Description>ASPX Life Cycle</Description>
+    <LinkText>https://www.tutorialspoint.com/asp.net/asp.net_life_cycle.htm</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>989</ItemID>
+    <Title>ASPX Page Life Cycle</Title>
+    <Description>ASPX Page Life Cycle</Description>
+    <LinkText>https://stackoverflow.com/questions/8457297/asp-net-page-life-cycle-explanation</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>990</ItemID>
+    <Title>Bubble Sort</Title>
+    <Description>Bubble Sort</Description>
+    <LinkText>https://www.codeproject.com/Articles/177363/Searching-and-Sorting-Algorithms-via-C</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>991</ItemID>
+    <Title>LINQ Tutorial</Title>
+    <Description>LINQ Tutorial</Description>
+    <LinkText>https://www.tutorialspoint.com/linq/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>992</ItemID>
+    <Title>Torrent IP Address</Title>
+    <Description>Torrent IP Address</Description>
+    <LinkText>http://www.best-bittorrent-vpn.com/check-torrent-ip.html</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>993</ItemID>
+    <Title>Youtube to MP3</Title>
+    <Description>Youtube to MP3</Description>
+    <LinkText>https://www.onlinevideoconverter.com/mp3-converter</LinkText>
+    <ChannelID>6d853c86-709d-4320-8b9c-eedc3636d1c0</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>994</ItemID>
+    <Title>WA Hot Spring</Title>
+    <Description>WA Hot Spring</Description>
+    <LinkText>http://www.hotspringsenthusiast.com/Washington.asp</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>995</ItemID>
+    <Title>Jasmine Testing</Title>
+    <Description>Jasmine Testing</Description>
+    <LinkText>https://jasmine.github.io/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>996</ItemID>
+    <Title>Carson Hot Spring Resort</Title>
+    <Description>Carson Hot Spring Resort</Description>
+    <LinkText>https://carsonhotspringresort.com/</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>997</ItemID>
+    <Title>Columbia River Gorge</Title>
+    <Description>Columbia River Gorge</Description>
+    <LinkText>http://www.columbiarivergorge.info/</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>998</ItemID>
+    <Title>Bally's Sterling Brunch</Title>
+    <Description>Bally's Sterling Brunch</Description>
+    <LinkText>https://www.tripadvisor.com/Restaurant_Review-g45963-d422673-Reviews-Sterling_Brunch-Las_Vegas_Nevada.html</LinkText>
+    <ChannelID>77b1a343-b70c-4621-9fd2-42a11c034b22</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>999</ItemID>
+    <Title>Bacchanal Buffet at Caesars Palace Las Vegas</Title>
+    <Description>Bacchanal Buffet at Caesars Palace Las Vegas</Description>
+    <LinkText>https://www.tripadvisor.com/Restaurant_Review-g45963-d3486300-Reviews-Bacchanal_Buffet-Las_Vegas_Nevada.html</LinkText>
+    <ChannelID>77b1a343-b70c-4621-9fd2-42a11c034b22</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1000</ItemID>
+    <Title>Public Employee Benefits</Title>
+    <Description>Public Employee Benefits</Description>
+    <LinkText>https://www.hca.wa.gov/public-employee-benefits</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1001</ItemID>
+    <Title>State HR Benefits</Title>
+    <Description>State HR Benefits</Description>
+    <LinkText>http://hr.ofm.wa.gov/compensation-job-classes/benefits</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1002</ItemID>
+    <Title>News Tribune Tacoma</Title>
+    <Description>News Tribune Tacoma</Description>
+    <LinkText>http://www.thenewstribune.com/</LinkText>
+    <ChannelID>0aaa952a-339a-4a0a-80ea-acbd4f7b82d7</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1003</ItemID>
+    <Title>EF Migrations Command Reference</Title>
+    <Description>EF Migrations Command Reference</Description>
+    <LinkText>https://coding.abel.nu/2012/03/ef-migrations-command-reference/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1004</ItemID>
+    <Title>DSHS Email Online Access</Title>
+    <Description>DSHS Email Online Access</Description>
+    <LinkText>https://mobile.wa.gov/my.policy</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1005</ItemID>
+    <Title>DSHS VPN Access</Title>
+    <Description>DSHS VPN Access</Description>
+    <LinkText>https://www.dshs.wa.gov/node/4053/social-service-payment-system</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1006</ItemID>
+    <Title>Department Retirement System</Title>
+    <Description>Department Retirement Benefit</Description>
+    <LinkText>http://www.drs.wa.gov</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1007</ItemID>
+    <Title>Tacoma Traffic Alert</Title>
+    <Description>Tacoma Traffic Alert</Description>
+    <LinkText>http://www.wsdot.com/traffic/trafficalerts/tacoma.aspx</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1008</ItemID>
+    <Title>Olympia Traffic Alert</Title>
+    <Description>Olympia Traffic Alert</Description>
+    <LinkText>http://www.wsdot.com/traffic/trafficalerts/olympia.aspx</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1009</ItemID>
+    <Title>Union</Title>
+    <Description>Union</Description>
+    <LinkText>https://www.afscme.org/members/advantage</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1010</ItemID>
+    <Title>603 thurston transit</Title>
+    <Description>603 thurston transit</Description>
+    <LinkText>https://www.intercitytransit.com/bus/routes/603-605-609-612</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1011</ItemID>
+    <Title>Powershell</Title>
+    <Description>Powershell</Description>
+    <LinkText>https://www.howtogeek.com/204088/how-to-use-a-batch-file-to-make-powershell-scripts-easier-to-run/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1012</ItemID>
+    <Title>Command Batch</Title>
+    <Description>Command Batch</Description>
+    <LinkText>https://stackoverflow.com/questions/5519328/executing-batch-file-in-c-sharp</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1013</ItemID>
+    <Title>Tax Calculator</Title>
+    <Description>Tax Calculator</Description>
+    <LinkText>http://us.icalculator.info/salary_illustration/68750.html</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1014</ItemID>
+    <Title>Tax Calculation 2nd</Title>
+    <Description>Tax Calculation 2nd</Description>
+    <LinkText>http://www.icalculator.info/australia/salary_illustration/68750.html</LinkText>
+    <ChannelID>d5e9ce65-c83f-4931-8557-4e3df70d4d92</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1015</ItemID>
+    <Title>Powershell &amp; SQL</Title>
+    <Description>Powershell &amp; SQL</Description>
+    <LinkText>https://dbatools.io/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
+  </Item>
+  <Item>
+    <ItemID>1016</ItemID>
+    <Title>Powershell Troy Ault</Title>
+    <Description>Powershell Troy Ault</Description>
+    <LinkText>https://blogs.msdn.microsoft.com/troy_aults_blog/</LinkText>
+    <ChannelID>9b0da73f-9180-4fa3-8a4d-bf03b556433a</ChannelID>
   </Item>
 </DocumentElement>
